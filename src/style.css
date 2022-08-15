@@ -1,1 +1,17 @@
 /* styles go here */
+.personal-information {
+  margin-bottom: 20px;
+}
+
+.personal-information:last-child {
+  margin-bottom: 0;
+}
+
+.personal {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.personal:last-child {
+  margin-bottom: 0;
+}
